@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/trangle/Cpp_workspace/fit4012-lab1-entropy-TrangLe1912/src",
+      "program": "/Users/trangle/Cpp_workspace/fit4012-lab1-entropy-TrangLe1912/src/build/Debug/outDebug"
+    }
+  ]
+}
